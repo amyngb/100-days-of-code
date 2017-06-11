@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 11, 2017
+### Day 1: June 11, 2017
 
 **Today's Progress**: Worked on Python algorithms for MITx class
 
@@ -8,7 +8,15 @@
 
 **Link to work:** https://github.com/amyngb/PythonAlgorithms
 
-### Day 0: June 12, 2017
+### Day 2: June 12, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day 3: June 13, 2017
 
 **Today's Progress**: 
 
