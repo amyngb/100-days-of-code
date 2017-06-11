@@ -6,7 +6,7 @@
 
 **Thoughts:** I am learning general computer science while working in Python.  Today I explored for- and while-loops. 
 
-**Link to work:** https://github.com/amyngb/PythonAlgorithms
+**Link to work:** https://github.com/amyngb/PythonAlgorithms (Week1Set1Problem1 and Problem2)
 
 ### Day 2: June 12, 2017
 
