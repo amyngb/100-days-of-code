@@ -10,11 +10,11 @@
 
 ### Day 2: June 12, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Created repository for a basic Google maps project.
 
-**Thoughts**: 
+**Thoughts**: Figured out more about how to use Github, and read through some Google tutorials.  
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/amyngb/Maps-Project
 
 ### Day 3: June 13, 2017
 
