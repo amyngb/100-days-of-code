@@ -28,10 +28,16 @@
 
 ### Day 4: June 14, 2017
 
+**Today's Progress**: More Python algorithms  
+
+**Thoughts**: I'm finding that it's rather confusing to work in two different languages before I've mastered either (Python and JavaScript).  I might stop the Python course for now and then pick it back up once I've mastered JS...I wanna finish the "Guess my number" code first, though.
+
+**Link(s) to work**: https://github.com/amyngb/PythonAlgorithms/blob/master/Guess%20my%20number
+
+### Day 5: June 15, 2017
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**:
-
-
