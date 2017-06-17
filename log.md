@@ -36,8 +36,8 @@
 
 ### Day 5: June 15, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Playing with JavaScript's array.filter() on Free Code Camp.
 
-**Thoughts**: 
+**Thoughts**: Definitely dropping the Python course for now.  I can always come back to it when I'm not working 55 hours/week...Also, I want to master JavaScript before I learn my second language.  As a foreign languages teacher, I definitely understand that a second foreign language becomes much easier to learn after mastering a first.  (Of course, I also understand that there is not exact equivalency between spoken langauges and programming languages, but this analogy makes sense to me...:-)
 
-**Link(s) to work**:
+**Link(s) to work**: https://www.freecodecamp.com/amyngb
