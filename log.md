@@ -41,3 +41,11 @@
 **Thoughts**: Definitely dropping the Python course for now.  I can always come back to it when I'm not working 55 hours/week...Also, I want to master JavaScript before I learn my second language.  As a foreign languages teacher, I definitely understand that a second foreign language becomes much easier to learn after mastering a first.  (Of course, I also understand that there is not exact equivalency between spoken langauges and programming languages, but this analogy makes sense to me...:-)
 
 **Link(s) to work**: https://www.freecodecamp.com/amyngb
+
+### Day 5: June 17, 2017
+
+**Today's Progress**: Solved the "Seek and Destroy" 
+
+**Thoughts**: Playing with JavaScript's array.filter() on Free Code Camp.  I had to look at a couple of solutions for this problem, and after reading that code, I was able to create my own solution.  I also learned about prototypes and the argument function here: https://www.reddit.com/r/FreeCodeCamp/comments/3x85sh/clarification_on_syntax_for_creating_an_array_fo/cy2ffbp/
+
+**Link(s) to work**: https://www.freecodecamp.com/amyngb
