@@ -44,8 +44,24 @@
 
 ### Day 5: June 17, 2017
 
-**Today's Progress**: Solved the "Seek and Destroy" 
+**Today's Progress**: Solved the "Seek and Destroy" and the "Where Do I Belong" algorigthms on FCC
 
-**Thoughts**: Playing with JavaScript's array.filter() on Free Code Camp.  I had to look at a couple of solutions for this problem, and after reading that code, I was able to create my own solution.  I also learned about prototypes and the argument function here: https://www.reddit.com/r/FreeCodeCamp/comments/3x85sh/clarification_on_syntax_for_creating_an_array_fo/cy2ffbp/
+**Thoughts**: Playing with JavaScript's array.filter() on Free Code Camp.  I had to look at a couple of solutions for the "Seek and Destroy" problem, and after reading that code, I was able to create my own solution.  I also learned about prototypes and the argument function here: https://www.reddit.com/r/FreeCodeCamp/comments/3x85sh/clarification_on_syntax_for_creating_an_array_fo/cy2ffbp/.  The "Where do I belong?" algorithm was super easy after doing all the investigative work on "Seek and Destroy."  It only took about 15 minutes!
+
+**Link(s) to work**: https://www.freecodecamp.com/amyngb
+
+### Day 6: June 18, 2017
+
+**Today's Progress**: Worked with "Caesar's Cipher" algorigthm on FCC
+
+**Thoughts**: Was groggy from a nap.  Made it half-way thru the problem in an hour.
+
+**Link(s) to work**: https://www.freecodecamp.com/amyngb
+
+### Day 7: June 19, 2017
+
+**Today's Progress**: Solved "Caesar's Cipher" algorigthm on FCC
+
+**Thoughts**: Learned about ASCII encoding, .charCodeAt() and String.fromCharCode() methods.
 
 **Link(s) to work**: https://www.freecodecamp.com/amyngb
