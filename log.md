@@ -65,3 +65,11 @@
 **Thoughts**: Learned about ASCII encoding, .charCodeAt() and String.fromCharCode() methods.
 
 **Link(s) to work**: https://www.freecodecamp.com/amyngb
+
+### Day 8: June 20, 2017
+
+**Today's Progress**: Started work on Random Quote Machine, with basic html and CSS.
+
+**Thoughts**: Feeling a bit rusty on the HTML and CSS after weeks of JavaScript, so it's good to be coming back to it.
+
+**Link(s) to work**: Haven't put it on Github yet (tomorrow!)
