@@ -96,6 +96,6 @@
 
 **Thoughts**: Used TeamViewer with my mentor, saw some command line work (I really need to learn that!).   Realized I need to learn about objects in JS (I've really only been doing simple algorithms up to this point).
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/amyngb/Maps-Project
 
 
