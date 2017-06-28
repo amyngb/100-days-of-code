@@ -94,8 +94,15 @@
 
 **Today's Progress**: Fixed .gitignore issue with Maps project, fixed a link so my map would actually show up in the browser.
 
-**Thoughts**: Used TeamViewer with my mentor, saw some command line work (I really need to learn that!).   Realized I need to learn about objects in JS (I've really only been doing simple algorithms up to this point).
+**Thoughts**: Used TeamViewer with my mentor, saw some command line work (I really need to learn that!).   Realized I need to learn about global objects and window variables in JS (I've really only been doing simple algorithms up to this point).  On Perfection: I missed several days last week since I was out of town on a conference.  Giving myself permission to continue with this challenge (even though I won't get credit for completing it perfectly) because it helps to have this goal of waking up at 5:30am and getting my hour of coding done before I start my day!
 
 **Link(s) to work**: https://github.com/amyngb/Maps-Project
 
+### Day 12: June 28, 2017
+
+**Today's Progress**: Installed some useful packages on Atom.  Learned about objects on the CodingHeroes course.
+
+**Thoughts**: I've narrowed my scope to deepen my understanding.  I'm definitely glad I'm committed to learning JS more fully before I move onto Python (or any other language).
+
+**Link(s) to work**: https://www.udemy.com/the-complete-javascript-course/learn/v4/
 
