@@ -73,3 +73,29 @@
 **Thoughts**: Feeling a bit rusty on the HTML and CSS after weeks of JavaScript, so it's good to be coming back to it.
 
 **Link(s) to work**: Haven't put it on Github yet (tomorrow!)
+
+### Day 9: June 21, 2017
+
+**Today's Progress**: Read up on API keys on Maps project. 
+
+**Thoughts**: Need to ask my mentor lots of things!
+
+**Link(s) to work**: 
+
+### Day 10: June 26, 2017
+
+**Today's Progress**:  Messed around with Random Quote generator. 
+
+**Thoughts**: I feel stuck and not sure which direction I should go... :-(
+
+**Link(s) to work**: 
+
+### Day 11: June 27, 2017
+
+**Today's Progress**: Fixed .gitignore issue with Maps project, fixed a link so my map would actually show up in the browser.
+
+**Thoughts**: Used TeamViewer with my mentor, saw some command line work (I really need to learn that!).   Realized I need to learn about objects in JS (I've really only been doing simple algorithms up to this point).
+
+**Link(s) to work**: 
+
+
