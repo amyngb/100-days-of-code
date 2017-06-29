@@ -106,3 +106,11 @@
 
 **Link(s) to work**: https://www.udemy.com/the-complete-javascript-course/learn/v4/
 
+### Day 13: June 29, 2017
+
+**Today's Progress**: Learned about objects on the CodingHeroes course.
+
+**Thoughts**: Tutorial-only day.  I want to understand more before I continue coding.
+
+**Link(s) to work**: https://www.udemy.com/the-complete-javascript-course/learn/v4/
+
