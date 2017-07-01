@@ -114,3 +114,21 @@
 
 **Link(s) to work**: https://www.udemy.com/the-complete-javascript-course/learn/v4/
 
+### Day 14: June 30, 2017
+
+**Today's Progress**: Learned about the execution stack and the scope chain on the CodingHeroes course.
+
+**Thoughts**: Tutorial-only day.  I want to understand more before I continue coding.
+
+**Link(s) to work**: https://www.udemy.com/the-complete-javascript-course/learn/v4/
+
+### Day 14: July 1, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: https://www.udemy.com/the-complete-javascript-course/learn/v4/
+
+
+
