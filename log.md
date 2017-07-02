@@ -124,11 +124,22 @@
 
 ### Day 14: July 1, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Learned DOM manipulation through the CodingHeroes JavaScript course.
 
-**Thoughts**: 
+**Thoughts**: Finally starting to understand how it all (JS/HTML/CSS) comes together! 
 
 **Link(s) to work**: https://www.udemy.com/the-complete-javascript-course/learn/v4/
+
+### Day 15: July 2, 2017
+
+**Today's Progress**: Learned about function constructors and Object.create.
+
+**Thoughts**: I'm enjoying getting this theoretical base.  I think I'll be much more productive in my coding after this course.
+
+**Link(s) to work**: https://www.udemy.com/the-complete-javascript-course/learn/v4/
+
+
+
 
 
 
