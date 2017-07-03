@@ -138,6 +138,13 @@
 
 **Link(s) to work**: https://www.udemy.com/the-complete-javascript-course/learn/v4/
 
+### Day 16: July 3, 2017
+
+**Today's Progress**: Learned about first-class functions, IIFE's, closures and bind, call and apply methods.  I also coded a quiz game to be played in the browser console.
+
+**Thoughts**: Try out my game!
+
+**Link(s) to work**: https://github.com/amyngb/Harry-Potter-Trivia-in-the-Console
 
 
 
