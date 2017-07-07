@@ -171,11 +171,11 @@
 **Link(s) to work**:  https://www.udemy.com/the-complete-javascript-course/learn/v4/
 ### Day 20: July 7, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Progressed on FCC's random quote machine. Used jsperf.com.   
 
-**Thoughts**: 
+**Thoughts**:  Had a problem with project design, but I figured it out with Reggie's help.  JSPerf is so cool-- my code lost horribly in a test runner against Reggie, but...at least it worked!
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/amyngb/Random-Quote-Generator/blob/master/js/quotes.js, https://jsperf.com/listbreaker2
 
 
 
