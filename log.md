@@ -146,6 +146,37 @@
 
 **Link(s) to work**: https://github.com/amyngb/Harry-Potter-Trivia-in-the-Console
 
+### Day 17: July 4, 2017
+
+**Today's Progress**: Learned about overall project design and modules on my JavaScript course.
+
+**Thoughts**: This stuff is very different from the algorithms I'd been doing before, but it is elegant and makes sense.
+
+**Link(s) to work**:  https://www.udemy.com/the-complete-javascript-course/learn/v4/
+
+### Day 18: July 5, 2017
+
+**Today's Progress**: Followed along in the app design process for my JavaScript course's budget app.
+
+**Thoughts**: Saw event listeners in action, and learned more DOM manipulation.
+
+**Link(s) to work**:  https://www.udemy.com/the-complete-javascript-course/learn/v4/
+
+### Day 19: July 6, 2017
+
+**Today's Progress**: Followed along in the app design process for my JavaScript course's budget app.  
+
+**Thoughts**: Learned that the node tree exists.  
+
+**Link(s) to work**:  https://www.udemy.com/the-complete-javascript-course/learn/v4/
+### Day 20: July 7, 2017
+
+**Today's Progress**: Learned about overall project design and modules on my JavaScript course.
+
+**Thoughts**: 
+
+**Link(s) to work**:  https://www.udemy.com/the-complete-javascript-course/learn/v4/
+
 
 
 
