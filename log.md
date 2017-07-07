@@ -171,12 +171,11 @@
 **Link(s) to work**:  https://www.udemy.com/the-complete-javascript-course/learn/v4/
 ### Day 20: July 7, 2017
 
-**Today's Progress**: Learned about overall project design and modules on my JavaScript course.
+**Today's Progress**: 
 
 **Thoughts**: 
 
-**Link(s) to work**:  https://www.udemy.com/the-complete-javascript-course/learn/v4/
-
+**Link(s) to work**: 
 
 
 
