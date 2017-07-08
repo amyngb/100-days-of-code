@@ -177,6 +177,8 @@
 
 **Link(s) to work**: https://github.com/amyngb/Random-Quote-Generator/blob/master/js/quotes.js, https://jsperf.com/listbreaker2
 
+### Day 21: July 8, 2017
+
 **Today's Progress**: Finished Random Quote Machine, put it up on CodePen.   
 
 **Thoughts**:  Yay!
