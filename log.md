@@ -177,6 +177,11 @@
 
 **Link(s) to work**: https://github.com/amyngb/Random-Quote-Generator/blob/master/js/quotes.js, https://jsperf.com/listbreaker2
 
+**Today's Progress**: Finished Random Quote Machine, put it up on CodePen.   
+
+**Thoughts**:  Yay!
+
+**Link(s) to work**: https://codepen.io/amyngb/full/GEYZda/
 
 
 
