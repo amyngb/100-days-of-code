@@ -185,7 +185,7 @@
 
 **Link(s) to work**: https://codepen.io/amyngb/full/GEYZda/
 
-### Day 21: July 9, 2017
+### Day 22: July 9, 2017
 
 **Today's Progress**: Tweaked Random Quote Machine to make it climbing quotes.  Climb on!  
 
@@ -193,7 +193,7 @@
 
 **Link(s) to work**: https://codepen.io/amyngb/pen/BZqPRL
 
-### Day 21: July 8, 2017
+### Day 23: July 8, 2017
 
 **Today's Progress**: Started FCC's weather app.  
 
