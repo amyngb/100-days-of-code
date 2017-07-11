@@ -185,5 +185,21 @@
 
 **Link(s) to work**: https://codepen.io/amyngb/full/GEYZda/
 
+### Day 21: July 9, 2017
+
+**Today's Progress**: Tweaked Random Quote Machine to make it climbing quotes.  Climb on!  
+
+**Thoughts**:  Also changed my JS quotes array from an object with a bunch of arrays to an array of objects.  It was more conventional notation. 
+
+**Link(s) to work**: https://codepen.io/amyngb/pen/BZqPRL
+
+### Day 21: July 8, 2017
+
+**Today's Progress**: Started FCC's weather app.  
+
+**Thoughts**:  Did Dark Sky api call.  Coded basic html.  
+
+**Link(s) to work**: https://github.com/amyngb/FCC-Weather-App
+
 
 
