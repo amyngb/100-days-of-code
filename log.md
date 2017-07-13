@@ -193,13 +193,31 @@
 
 **Link(s) to work**: https://codepen.io/amyngb/pen/BZqPRL
 
-### Day 23: July 8, 2017
+### Day 23: July 10, 2017
 
 **Today's Progress**: Started FCC's weather app.  
 
 **Thoughts**:  Did Dark Sky api call.  Coded basic html.  
 
 **Link(s) to work**: https://github.com/amyngb/FCC-Weather-App
+
+### Day 24: July 12, 2017
+
+**Today's Progress**: Tried to figure out .env file, but it wasn't working. 
+
+**Thoughts**:   I want to always do best practices and not expose my API keys (or at least know how to do it).  I know that for the purposes of the FCC Weather project on CodePen, I have to use my API key in the code, but I also am putting everything up on Github with the proper .env file protections.
+
+**Link(s) to work**: https://github.com/amyngb/FCC-Weather-App
+
+### Day 24: July 12, 2017
+
+**Today's Progress**: Figured out .env file. Started work on some intermediate algorithm scripting in FCC.
+
+**Thoughts**:   I simply hadn't added the environment file in a script tag on my html page. *FACEPALM*
+
+**Link(s) to work**: https://github.com/amyngb/FCC-Weather-App
+
+
 
 
 
