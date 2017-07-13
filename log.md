@@ -209,7 +209,7 @@
 
 **Link(s) to work**: https://github.com/amyngb/FCC-Weather-App
 
-### Day 24: July 12, 2017
+### Day 25: July 12, 2017
 
 **Today's Progress**: Figured out .env file. Started work on some intermediate algorithm scripting in FCC.
 
