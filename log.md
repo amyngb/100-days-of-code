@@ -209,7 +209,7 @@
 
 **Link(s) to work**: https://github.com/amyngb/FCC-Weather-App
 
-### Day 25: July 12, 2017
+### Day 25: July 13, 2017
 
 **Today's Progress**: Figured out .env file. Started work on some intermediate algorithm scripting in FCC.
 
@@ -217,7 +217,28 @@
 
 **Link(s) to work**: https://github.com/amyngb/FCC-Weather-App
 
+### Day 26: July 14, 2017
 
+**Today's Progress**: Solved "Sum all numbers in a range" algorithm on FCC.
 
+**Thoughts**:   I enjoy the focused concentration and defined scope of algorithms, but know that I also need to focus on overall program design and planning.  Together, both will make me a stronger programmer!
+
+**Link(s) to work**: https://www.freecodecamp.org/challenges/sum-all-numbers-in-a-range
+
+### Day 27: July 15, 2017
+
+**Today's Progress**: Started DOM manipulation on the Weather App.
+
+**Thoughts**:   Learned an important point about asynchronicity in Javascript: I was finding myself able to console.log within a function but not actually use the data.  This is because the function was making an AJAX call, which is asynchronous.  I'm starting to understand why callback functions are important/necessary (it sometimes has to do with this asynchronicity), but still don't fully understand.
+
+**Link(s) to work**: https://github.com/amyngb/FCC-Weather-App
+
+### Day 28: July 16, 2017
+
+**Today's Progress**:  
+
+**Thoughts**:   
+
+**Link(s) to work**: 
 
 
