@@ -235,10 +235,28 @@
 
 ### Day 28: July 16, 2017
 
-**Today's Progress**:  
+**Today's Progress**:  Finished the "Roman numerals" and got stuck on the "Wherefore art thou" problem on FCC's intermediate algorithms.   
 
-**Thoughts**:   
+**Thoughts**:   I'm trying to understand the different iterative methods in Javascript, specifically .map(), .filter() and .forEach().  *.map()* is like a 'for each' loop that transforms an array using a callback function. The *.filter()* callback function must return a Boolean for each value, and then .filter() includes only those values that return as "true" in the callback.  .map() returns the same number of outputs in the new array as were in the original array, whereas .filter() only returns values for which its callback function returned 'true.'  Finally, the .forEach() method uses a callback function and does what a for-loop does.  The difference is, using callbacks can prevent scope problems with asynchronous operations in a loop.  
 
-**Link(s) to work**: 
+(I learned this from the website: http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/
+
+**Link(s) to work**: https://www.freecodecamp.org/challenges/roman-numeral-converter
+
+### Day 29: July 17, 2017
+
+**Today's Progress**:  Still stuck on the "Wherefore art thou" problem on FCC's intermediate algorithms.   
+
+**Thoughts**:   I might skip and come back to it.  Objects are hard.
+
+**Link(s) to work**:  https://www.freecodecamp.org/challenges/wherefore-art-thou
+
+### Day 30: July 18, 2017
+
+**Today's Progress**:   Solved "Search and Replace" algorithm.
+
+**Thoughts**:   It took longer because I forgot that strings are immutable....I think (will read explanations tomorrow).
+
+**Link(s) to work**:  https://www.freecodecamp.org/challenges/search-and-replace
 
 
