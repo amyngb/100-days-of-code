@@ -259,4 +259,21 @@
 
 **Link(s) to work**:  https://www.freecodecamp.org/challenges/search-and-replace
 
+### Day 31: July 19, 2017
+
+**Today's Progress**:   Solved "Pig Latin" algorithm.
+
+**Thoughts**:   My solution is long and inelegant and probably performs poorly.  I will rewrite it tomorrow using Regex.
+
+**Link(s) to work**:  https://www.freecodecamp.org/challenges/pig-latin
+
+### Day 32: July 20, 2017
+
+**Today's Progress**:  Rewrote my solution to Pig Latin using a function (trying to not repeat my code) and Regex (making code shorter).
+
+**Thoughts**:   I am constantly refining my Javascript vocabulary, (which definitely helps with my overall JS knowledge), and so I will try to log new things here as I learn them.  Today: a function *parameter* is the variable in the declaration of the function, whereas the function *argument* is the actual value of the variable passed to the parameter when the function is invoked. 
+
+**Link(s) to work**:  https://www.freecodecamp.org/challenges/pig-latin
+
+
 
