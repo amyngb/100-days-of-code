@@ -275,5 +275,32 @@
 
 **Link(s) to work**:  https://www.freecodecamp.org/challenges/pig-latin
 
+### Day 33: July 23, 2017
+
+**Today's Progress**:  Solved "DNA Pairing," "Missing Letters," and "Boo Hoo" algorithms on FCC.
+
+**Thoughts**:   Soon I will start working on ES2015, because it seems to have some pretty advanced solutions that take up less lines of code.  At least so I can become familiar with it.
+
+**Link(s) to work**:  https://www.freecodecamp.org/challenges/missing-letters
+
+### Day 34: July 24, 2017
+
+**Today's Progress**:  Almost solved "Sorted Union" algorithm using .reduce().
+
+**Thoughts**:   I'm glad that I focused on definitions of reduce, filter, map, because I was able to use my new knowledge in this problem.
+
+**Link(s) to work**:  https://www.freecodecamp.org/challenges/sorted-union
+
+### Day 35: July 25, 2017
+
+**Today's Progress**:  Solved "Sorted Union" algorithm using .reduce().  Solved "Convert HTML Entities" using .replace().
+
+**Thoughts**:   Turns out, with "Sorted Union," I was checking the wrong array with indexOf.  Funny how taking a break from a problem allows you to see it in a different light.  With "Convert," my solution matched the intermediate solution on FCC's algorithm challenge guide.  However, I can see that the superior way to solve the problem would be with an object that you map over, so that you can just keep adding key-value pairs to the object, rather than having long chains of .replace(). 
+
+**Link(s) to work**: https://www.freecodecamp.org/challenges/convert-html-entities
+
+
+
+
 
 
